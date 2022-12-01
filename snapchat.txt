@@ -12,4 +12,4 @@ Author : Vaijayanthi
 
 5. Hiding the last seen
 
-6.download the photos
+6.download all media files 
